@@ -16,7 +16,7 @@ const HeroSection = () => {
       <div className="flex flex-col text-center items-center justify-center animate-fadeIn animation-delay-2 my-10 py-16 sm:py-32 md:py-32 md:flex-row md:space-x-4 md:text-left space-y-4">
         <div className=" md:w-1/2">
           <Image
-            src="/headshot.png"
+            src="../public/headshot.png"
             alt=""
             width={325}
             height={325}
