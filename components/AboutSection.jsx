@@ -20,7 +20,7 @@ const AboutSection = () => {
             In addition, I am also a strong problem-solver and enjoy the challenge of finding creative solutions to complex problems. I am always looking for new ways to improve my skills and stay up-to-date with the latest technologies and trends in the field.
             </p>
             <p className="mt-4 ">
-            Overall, my goal as a developer is to use my skills and knowledge to create meaningful and impactful projects that can help improve people's lives. I am excited to continue learning and growing as a developer, and I am confident that my passion and dedication will lead me to great success in the future.</p>
+            Overall, my goal as a developer is to use my skills and knowledge to create meaningful and impactful projects that can help improve people&apos;s lives. I am excited to continue learning and growing as a developer, and I am confident that my passion and dedication will lead me to great success in the future.</p>
           </div>
         </div>
       </div>
